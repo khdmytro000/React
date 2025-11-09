@@ -73,10 +73,9 @@
 </table>
   
 <h3>Where users can get help with the project</h3>
-  <p>contact me at natankrasney@gmail.com or via my linkedin account</p>
+  <p>contact me at khdmytro368@gmail.com</p>
 
 <h3>Who maintains and contributes to the project</h3>
-  <p>Nathan Krasney : https://il.linkedin.com/in/nathankrasney</p>
 
 <h3>More info on React</h3>
 <ul>
@@ -87,4 +86,4 @@
 
 
 <h3>License</h3>
-All projects in this React repository are MIT licensed. Copyright (c) Nathan Krasney 2019.
+All projects in this React repository are MIT licensed. Copyright (c) Dmytro Khalizov 2019.
